@@ -39,10 +39,13 @@ export default function HeroSection() {
         <section id="how-it-works">
         <div className="relative mx-auto max-w-4xl rounded-xl overflow-hidden border border-purple-500/30 shadow-2xl shadow-purple-500/20 glow-border float-animation">
           <div className="absolute inset-0 bg-gradient-to-br from-purple-500/20 to-violet-700/20 opacity-30"></div>
-          <img
-            src="/placeholder.svg?height=600&width=1000"
-            alt="AutoStar Extension Screenshot"
+          <video
+            src="/Tutorial.mp4"
             className="w-full h-auto"
+            autoPlay
+            loop
+            muted
+            playsInline
           />
         </div>
         </section>
