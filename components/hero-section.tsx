@@ -19,7 +19,7 @@ export default function HeroSection() {
             className="bg-gradient-to-r from-purple-500 to-violet-600 hover:from-purple-600 hover:to-violet-700 text-white font-medium btn-glow"
             asChild
           >
-            <Link href="https://chrome.google.com/webstore" target="_blank">
+            <Link href="https://chromewebstore.google.com/detail/auto-star/plbiedpiaeongaonmooflnbjigckoppa" target="_blank">
               <span className="flex items-center gap-2">
                 Add to Chrome
                 <ChevronRight className="h-4 w-4" />
