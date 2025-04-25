@@ -10,7 +10,7 @@ export default function HeroSection() {
           Automate Feedback Forms in One Click
         </h1>
         <p className="text-xl text-gray-400 max-w-3xl mx-auto mb-10">
-          AutoStar automatically fills feedback forms on college sites using iCloud EMS, saving you time and
+          AutoStar automatically fills feedback forms on iCloud EMS, saving your time and
           ensuring consistent feedback.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
@@ -40,7 +40,7 @@ export default function HeroSection() {
         <div className="relative mx-auto max-w-4xl rounded-xl overflow-hidden border border-purple-500/30 shadow-2xl shadow-purple-500/20 glow-border float-animation">
           <div className="absolute inset-0 bg-gradient-to-br from-purple-500/20 to-violet-700/20 opacity-30"></div>
           <video
-            src="/Tutorial.mp4"
+            src="/2Tutorial.mp4"
             className="w-full h-auto"
             autoPlay
             loop
